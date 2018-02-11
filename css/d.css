@@ -1,0 +1,72 @@
+
+label {
+    font-family: Nimbus sans L;
+    font-size: 2vw
+}
+
+h3 {
+    font-family: Nimbus sans L;
+    font-size: 2vw;
+    color: white;
+}
+
+input,
+select {
+    width: 50%;
+}
+
+input[type=radio] {
+    width: 5%;
+    zoom: 1.5;
+}
+
+input[type=checkbox] {
+    width: 5%;
+    zoom: 1.5;
+}
+
+form {
+    
+    padding: 3%;
+}
+
+#logo img {
+    text-align: left;
+    position: fixed;
+    left: 4%;
+    top: 5%;
+    max-width: 15%;
+    max-height: 15%;
+}
+
+
+#cabecera {
+ z-index: 1;
+ width:900px;
+ margin: 0 auto 0 auto;
+ background-color: #000000;
+ text-align: left;
+ color: #FFFFFF;
+}
+
+#principal {
+ z-index: 1;
+ width:900px;
+ margin: 0 auto 0 auto;
+ background-color: WHITE;
+}
+#titulo {
+	 z-index: 1;
+    font-size: 4vw;
+    position: relative;
+    top: 20%;
+    left: 1%;
+}
+#menu {
+    position: absolute;
+    top: 0%;
+    right: 14%;
+    height: 100%;
+    width: 25%;
+    z-index: 2;
+}
