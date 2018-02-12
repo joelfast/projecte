@@ -5,70 +5,64 @@
 <questions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="preguntas.xsd">
 	<question id="jordan_001">
 		<type>select</type>
-		<title>¿De qué animal proviene el nombre de las Islas Canarias?</title>
-		<option>Canario</option>
-		<option>Periquito</option>
-		<option>Perro</option>
-		<option>Gato</option>
+		<title>¿Cuantos continentes existen en la tierra?</title>
+		<option>4</option>
+		<option>6</option>
+		<option>5</option>
+		<option>3</option>
 		<answer>2</answer>
 	</question>
 	<question id="jordan_002">
 		<type>select</type>
-		<title>¿De qué país son originarios los sombreros de Panamá?</title>
-		<option>Ecuador</option>
-		<option>Panamá</option>
-		<option>España</option>
+		<title>¿Las islas Malvinas pertenece a ...?</title>
+		<option>Argentina</option>
+		<option>Bahamas</option>
+		<option>Reino Unido</option>
 		<answer>0</answer>
 		
 	</question>
 	<question id="jordan_003">
 		<type>text</type>
-		<title>¿Cuántos años duró la guerra de 100 años?</title>
-		<answer>116</answer>
+		<title>¿De que color era el caballo blanco de Napoleon?</title>
+		<answer>blanco</answer>
 	</question>
 	<question id="jordan_004">
 		<type>text</type>
-		<title>¿Cuántos países conforman el Reino Unido?</title>
-		<answer>4</answer>
+		<title>¿Como se llama el primer metal descubierto por el hombre?</title>
+		<answer>cobre</answer>
 	</question>
 	<question id="jordan_005">
 		<type>checkbox</type>
-		<title>¿De qué animal/es se obtiene la tripa de gato? (para hacer cuerdas de violines)</title>
-		<option>oveja</option>
-		<option>gato</option>
-		<option>carnero</option>
-		<option>iguana</option>
-		<option>perro</option>
+		<title>¿Cual es la parte mas seca de la tierra?</title>
+		<option>Antartida</option>
+		<option>America del norte</option>
+		<option>Argelia</option>
 		<answer>0</answer>
-		<answer>2</answer>
+		
 	</question>
 	<question id="jordan_006">
 		<type>checkbox</type>
-		<title>¿Cuál es la montaña más alta del mundo?</title>
-		<option>Everest</option>
-		<option>Mauna Kea</option>
-		<option>Chimborazo</option>
-		<option>Puig Major</option>
-		<answer>0</answer>
-		<answer>1</answer>     
+		<title>¿En que frontera se encuentra el Everest?</title>
+		<option>China y Rusia</option>
+		<option>China y India</option>
+		<option>China y Nepal</option>
 		<answer>2</answer>
 	</question>
 	<question id="jordan_007">
 		<type>radio</type>
-		<title>¿Cómo se llamaba el rey Jorge VI de Inglaterra?</title>
-		<option>George</option>
-		<option>Albert</option>
-		<option>John</option>
-		<option>Tom</option>
+		<title>¿En que país se ubican las ruinas de Esparta?</title>
+		<option>Italia</option>
+		<option>Grecia</option>
+		<option>Turquia</option>
 		<answer>1</answer>
 	</question>
 	<question id="jordan_008">
 		<type>radio</type>
-		<title>¿Cuántas parejas de animales metió Noé en su arca?</title>
-		<option>1</option>
-		<option>2</option>
-		<option>5</option>
-		<option>Otro</option>
+		<title>¿Que pais es el segundo pais con mayor población?</title>
+		<option>Rusia</option>
+		<option>China</option>
+		<option>USA</option>
+		<option>India</option>
 		<answer>3</answer>
 	</question>
 	<question id="jordan_009">
