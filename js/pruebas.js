@@ -114,7 +114,7 @@ function imprimirOpcionesSelect(i, xmlDoc) {
 
 function imprimirCajaText(numeroCajaTexto, xmlDoc) {
 	var cajaTexto = document.createElement("input");
-	cajaTexto.type = "number";
+	cajaTexto.type = "text";
 	cajaTexto.id = "cajaTexto" + numeroCajaTexto;
 	document.getElementById('pregunta'+i).appendChild(cajaTexto);
 }
